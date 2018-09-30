@@ -3,7 +3,7 @@
 <div align="right" >
 -----  QIchao Yuan 516051910027
 </div>
-# <div align=center>Vue.js</div>
+ <div align=center>Vue.js</div>
 
 ![vue logo](https://cn.vuejs.org/images/logo.png)
 
