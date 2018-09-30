@@ -3,7 +3,8 @@
 <div align="right" >
 -----  QIchao Yuan 516051910027
 </div>
-## Vue.js
+
+# Vue.js
 
 ![vue logo](https://cn.vuejs.org/images/logo.png)
 
@@ -33,7 +34,7 @@ One of Vue’s most distinctive features is the unobtrusive reactivity system.
 
 Components are one of the most powerful features of Vue. In a large application, it is necessary to divide the whole app into small, self-contained, and often reusable components to make development manageable. 
 
-``` javascript
+```javascript
 <div id="tuto">
 	<buttonclicked v-bind:initial_count="0"></buttonclicked>
 </div>
@@ -63,11 +64,8 @@ new Vue({
 Vue provides a variety of ways to apply transition effects when items are inserted, updated, or removed from the DOM. This includes tools to:
 
 - [ ] automatically apply classes for CSS transitions and animations
-
 - [ ] integrate third-party CSS animation libraries, such as Animate.css
-
 - [ ] use JavaScript to directly manipulate the DOM during transition hooks
-
 - [ ] integrate third-party JavaScript animation libraries, such as Velocity.js
 
 
