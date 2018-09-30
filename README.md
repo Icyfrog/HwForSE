@@ -3,10 +3,13 @@
 <div align="right" >
 -----  QIchao Yuan 516051910027
 </div>
-
-# Vue.js
+# <div align=center>Vue.js</div>
 
 ![vue logo](https://cn.vuejs.org/images/logo.png)
+
+
+
+
 
 ## 1. Overview
 
@@ -30,7 +33,7 @@ One of Vue’s most distinctive features is the unobtrusive reactivity system.
 
 Components are one of the most powerful features of Vue. In a large application, it is necessary to divide the whole app into small, self-contained, and often reusable components to make development manageable. 
 
-```javascript
+``` javascript
 <div id="tuto">
 	<buttonclicked v-bind:initial_count="0"></buttonclicked>
 </div>
