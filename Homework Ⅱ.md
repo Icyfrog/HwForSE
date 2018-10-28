@@ -6,7 +6,7 @@
 
 <br/>
 
-####  ● Native App
+#### ● Native App
 
 ​	Native App is a kind of third party application, which is based on the cell phones' operation system such as iOS, Android and WP and also called as local App.
 
@@ -32,7 +32,7 @@
 
 ​	Reference from Wiki:  *Hybrid apps embed a mobile web site inside a native app, possibly using a hybrid framework like Apache Cordova and Ionic or Appcelerator Titanium. This allows development using web technologies (and possibly directly copying code from an existing mobile web site) while also retaining certain advantages of native apps (e.g. direct access to device hardware, offline operation, app store visibility).*
 
-#### 	*So, we can use this a simple image to illustrate the connection between them.*
+#### *So, we can use this a simple image to illustrate the connection between them.*
 
 ![img](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2576335783,1516293876&fm=26&gp=0.jpg)
 
@@ -40,11 +40,43 @@
 
 
 
+### Prons & Cons
+
+#### ●  Native App
+
+It's better for :
+
+- [ ] Using hardware equipment and compute source.
+- [ ] Accessing local resources and information
+- [ ] may not need the Internet sometimes
+
+On the other hand:
+
+- [ ] Updating needs more time and energy (both for programmers and users)
+- [ ] Application store issuing audit cycle long
+- [ ] High cost of development
+
+#### ●  Web App
+
+Better for :
+
+- [ ] No need for installation package, need less room
+- [ ] Lower cost of development
+- [ ] Based on browers, suitable for many platform
+- [ ] Friend updating
+
+But...
+
+- [ ] Useless without the Internet
+- [ ] less security
+
+#### ●  Hybrid App
+
+It contains both of the others Prons & Cons
 
 
-### Competiton and Cooperation
 
-
+##### 		Well, everything has Competiton and Cooperation with others.
 
 ![img](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2915376758,1551049984&fm=26&gp=0.jpg)
 
