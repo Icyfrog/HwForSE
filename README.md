@@ -108,3 +108,5 @@ const router = new VueRouter({
 *Tips: Vue.js is so different with the technology stack I have had before, from the front end to the back end...*
 
 ~~To be honest, it feels so hard to learn it well.~~
+
+well, just try to learn well.
