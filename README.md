@@ -1,5 +1,5 @@
-# Homework Ⅰ of The Fundamental Practice of Software Engineering Innovation
-
+# 15:27  Homework Ⅰ of  The Fundamental Practice of Software Engineering Innovation
+# 15"28
 <div align="right" >
 -----  QIchao Yuan 516051910027
 </div>
